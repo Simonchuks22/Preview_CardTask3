@@ -1,6 +1,6 @@
 # web3Bridge Task(2) - Social proof preview card component
 
-![Design preview for the social proof preview card component coding challenge](./design/desktop-preview.jpg)
+[![Screenshot-19.png](https://i.postimg.cc/vTCYHR9s/Screenshot-19.png)](https://postimg.cc/zHSZ0c0t)
 
 ## Welcome! 👋
 
